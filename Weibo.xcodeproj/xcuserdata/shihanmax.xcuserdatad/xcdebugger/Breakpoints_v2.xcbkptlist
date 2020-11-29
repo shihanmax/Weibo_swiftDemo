@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FE32BA1B-31F1-4DAC-9603-2BAF7D38A7B6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D017002-21C0-4FC5-8356-0E0091BE234B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weibo/Post.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "9D017002-21C0-4FC5-8356-0E0091BE234B - c5f92495159b80a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_B12E88E4862EC81D434C501345A0E7B8_func0"
+                  moduleName = "Weibo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shihanmax/Documents/coding/code/20201107-swift-learning/weibo/Weibo/Weibo/Post.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "9D017002-21C0-4FC5-8356-0E0091BE234B - e46a69a11926bece"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weibo.postList.unsafeMutableAddressor : Weibo.PostList"
+                  moduleName = "Weibo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shihanmax/Documents/coding/code/20201107-swift-learning/weibo/Weibo/Weibo/Post.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "9D017002-21C0-4FC5-8356-0E0091BE234B - 9330481659aa6b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weibo_PreviewReplacement_Post_7.(__preview__loadPostListData in _8362215C51BB34331F43C8EB4FA205F5)(fileName: Swift.String) -&gt; Weibo.PostList"
+                  moduleName = "Post.7.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shihanmax/Documents/coding/code/20201107-swift-learning/weibo/Weibo/Weibo/Post.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
